@@ -42,8 +42,6 @@ I strongly believe in the mantra "team work makes the dream work"! I have been p
 I have always beleived my self to be a relatively fast learner. My intrest always leads me to learn more and weather in my role at booking.com or Wavetel, I always took pride in teh fact that I was very well versed with procedurs and compliance related things. Furthermore, going through makers and learning new languages and tech stacks has also solidified my belief. In our final project, I was able to learn and delploy a single page web application using the MERN stack, with no prior experience. 
 
 ## Additional Skills
-Analytical thinker
-In my role at Bank of America, I analysed new market data on a daily basis to generate trade ideas. Furthermore, I undertook a project to migrate all of our systems and trade history to a new legal entity. This required careful risk analysis which ensured there was no negative P&L impact on completion.
 
 - Methodologies : Agile, XP, Test Driven Development
 - Languages Spoken : English, Urdu, Punjabi, Hindi
