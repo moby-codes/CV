@@ -1,6 +1,7 @@
 ## Syed Mubashar Ali
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A coding bootcamp graduate with a passion for software development. Recently completed the [Makers Academy](https://www.makers.tech/) and now excited to take the next step and get my first junior developer job. I have worked in tech related roles throughout my career and have always wanted to be on the other side of the software.
+I would love to work for a company which encourages further growth and development and gives me the chance to continue learning and grow.
 
 ## Projects
 
@@ -13,15 +14,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Booking.com** (Mar 2017 to Nov 2020)  
+_Advanced Role Specialist_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- As part of the role, dealt with large scale projects (mass issues), where alternative arrangements have to be made for upcoming reservations. This included liaising with the property manager, setting and agreeing to a budget with the property and setting an action plan on all reservations to reflect this.
+- Provided on-going management support to the customer service employees in terms of coaching, guidance and mentoring, for all representatives based in all EMEA offices (over 1500 employees). This included, taking escalated calls from and approving payout for customers and properties alike.
+- Liaised with clients and internal departments (Partner Services, Finance, Content and Fraud Teams) in order to handle delicate scenarios, creating action plans that are beneficial to all stakeholders involved.
+- Managed executive complaints, high-risk reservations and social media complaints.
+- Worked alongside team leaders to provide training and workshops, aiming at ensuring consistency and quality of the service provided by Guest Specialists;.
+- As part of the role, identified possible fraudulent reservations and/or properties and reported them to be manually checked accordingly.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**Wavetel Ltd.** (Oct 2014 to Jun 2017)  
+_Support Manager_
+
+A multi Faceted role in which my tasks included supervising the support of all customers, make sure any technical or non technical customer query is handled and escalated if required. Helped create policies for signing up new customers for the sales team which included contract compliance etc. Set up new customers in Portaone switch, programmed IP phones and attended sales calls for select clients. Regularly trained new staff on support practices and personally resolved many escalated cases.
 
 ## Skills
 
