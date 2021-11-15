@@ -7,7 +7,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 |[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [MakersBnB](https://github.com/danroche10/makers-bnb) | An Airbnb clone. | Ruby, Sinatra, Rspec, Capybara, PSQL             |
+| [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby,, Ruby on Rails, Rspec, Capybara, Active Record              |
+
 
 ## Work Experience
 
