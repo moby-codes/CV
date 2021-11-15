@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-|Code4fun                      | A language agnostic web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
+|[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
