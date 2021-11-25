@@ -63,4 +63,4 @@ I have always beleived myself to be a relatively fast learner. Weather in my rol
 
 ## Hobbies
 
-Currently I am learning to play the guitar! I also love playing games and listning to podcasts. Love reading everything other than books. Outside you might find me on nature walks and hike.  
+Currently I am learning to play the guitar! I also love playing games and listning to podcasts. Love reading everything other than books. Outside you might find me on nature walks and hike or cracking jokes with my friends. 
