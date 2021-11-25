@@ -1,13 +1,17 @@
 ## Syed Mubashar Ali
 
-A coding bootcamp graduate with a passion for software development. Recently completed the [Makers Academy](https://www.makers.tech/) and now excited to take the next step and get my first junior developer job. I have worked in tech related roles throughout my career and have always wanted to be on the other side of the software.
-I would love to work for a company which encourages further growth and development and gives me the chance to continue learning and grow.
+I am an ambitious Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to the tech industry from a developers point of view.
+
+After working different management jobs, I felt unfulfilled in my career still and decided to take the plunge and do something that I have always wanted to, software development. Having worked in different tech companies in non software related roles in the past, I always felt like I was more intrested in how the product was made and feel like I have the non technical skills to succeed in the role. I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp and giving me insight and knowledge on how software design and development works and I'm excited to take the next step and get my first junior developer job. 
+
+Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Active record, MongoDB, Jest, Jasmine, RSPEC, Capybara
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-|[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
+|[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic single page web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
 | [MakersBnB](https://github.com/danroche10/makers-bnb) | An Airbnb clone. | Ruby, Sinatra, Rspec, Capybara, PSQL             |
 | [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby,, Ruby on Rails, Rspec, Capybara, Active Record              |
 
