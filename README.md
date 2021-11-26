@@ -2,8 +2,8 @@
 
 I am an ambitious Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to the tech industry from a developers point of view.
 
-After working different management jobs, I felt unfulfilled in my career still and decided to take the plunge and do something that I have always wanted to, software development. Having worked in different tech companies in non software related roles in the past paired with my educational background in computer science, I always felt like I was more intrested in how the product was made. My career so far given me the non technical skills to be a valuable team member and succeed in any role. 
-I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp and giving me insight and knowledge on how software design and development works and I'm excited to take the next step and get my first junior developer job. 
+After working different management jobs, I felt unfulfilled in my career still and decided to take the plunge and do something that I have always wanted to, software development. Having worked in different tech companies in non software related roles in the past paired with my educational background in computer science, I always felt like I was more intrested in how the product was made given that my career so far has given me the non technical skills to be a valuable team member and succeed in any role.
+I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp which has given me insight and knowledge on how software design and development works and I'm excited to take the next step and get my first junior developer job. 
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Active record, MongoDB, Jest, Jasmine, RSPEC, Capybara
 
