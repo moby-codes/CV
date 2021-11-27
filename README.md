@@ -14,7 +14,7 @@ I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp whi
 | ---------------------------- | ----------------- | ----------------- |
 |[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic single page web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
 | [MakersBnB](https://github.com/danroche10/makers-bnb) | An Airbnb clone. | Ruby, Sinatra, Rspec, Capybara, PSQL             |
-| [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby,, Ruby on Rails, Rspec, Capybara, Active Record              |
+| [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby, Ruby on Rails, Rspec, Capybara, Active Record              |
 
 
 ## Work Experience
