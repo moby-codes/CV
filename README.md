@@ -19,6 +19,28 @@ I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp whi
 
 ## Work Experience
 
+**SMARSH** (April 2022 – present)
+Delivery Engineer I 
+
+Contributed expertise in DevOps and Full-Stack development. Specializing in the terraform and the Backstage ecosystem, I drive innovation and efficiency through the following key accomplishments:
+
+•	Orchestrated the maintenance of Backstage, leveraging Node.js on the backend and React.js on the frontend, while seamlessly integrating new tool integrations to enhance efficiency and productivity.
+•	Spearheaded the development and upkeep of diverse Terraform modules, including modules responsible for deploying AWS RDS instances, ensuring streamlined infrastructure management and deployment.
+•	 Engineered multiple Concourse pipelines, including PR validation pipelines, showcasing prowess in automation and continuous integration
+•	Designed and implemented Datadog dashboards via Terraform to monitor Concourse metrics, enhancing visibility and performance tracking. 
+•	Wrote and deployed Terratest tests for our inhouse Terraform RDS creation module, comprehensively validating code integrity and functionality.
+•	Automated and meticulously validated deployments through Concourse pipelines, fostering agile and reliable release processes.
+•	Executed API-driven tenant deployments using Postman, ensuring seamless and efficient deployment processes 
+•	Worked on GitHub Actions to institute robust verification mechanisms for PRs and seamless release deployments, optimizing collaboration and code quality.
+•	Played a key role in automating staging and production setups through Concourse pipelines for Backstage, enhancing operational efficiency and scalability.
+•	Demonstrated proficiency in full-stack development by implementing custom Backstage tools with React and Material-UI, delivering intuitive user experiences and streamlined workflows.
+•	Contributed, as one of two engineers, to the migration of an in-house Slack bot from JavaScript to TypeScript, enhancing code maintainability and scalability
+•	Authored and optimized Bash scripts, including deployment clean up routines, to automate routine tasks and improve operational efficiency 
+•	Collaborated closely with cross-functional teams on ad-hoc tasks and debugging efforts, fostering a culture of continuous improvement and innovation within Concourse pipelines
+•	Demonstrated proficiency in Docker containerization, contributing to containerized deployments and supporting containerized environments, albeit with limited experience
+![image](https://github.com/moby-codes/CV/assets/64266350/3e36a1a3-21c1-49f0-9162-7f553f44b07f)
+
+
 **Booking.com** (Mar '17 to Nov '20)  
 _Advanced Role Specialist_
 
