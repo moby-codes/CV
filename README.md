@@ -1,9 +1,13 @@
 ## Syed Mubashar Ali
-_Linkedin: linkedin.com/in/smubasharali_
+[_Linkedin: linkedin.com/in/smubasharali_
+](https://www.linkedin.com/in/smubasharali/)
+
 
 **DevOps Engineer** with strong experience across infrastructure automation, CI/CD, and cloud-native practices. Hands-on with AWS, Terraform, Docker, and GitHub Actions, delivering reliable, scalable systems in agile environments. Bootcamp-trained with a practical foundation in full-stack development and scripting. Excels at cross-team collaboration and driving engineering excellence through automation and innovation.
 
-**Core Skills** :• AWS (RDS, EC2 etc.)  • Terraform  • CI/CD (GitHub Actions, Concourse)  • Docker & Containerization (Docker and Kubernetes)• Monitoring & Observability (Datadog, CloudWatch)  • Scripting in Python and Bash  • Infrastructure as Code (IaC) • Agile & DevOps practices  • Full-stack Development (Node.js, React.js, Ruby)  • API Integrations  • Automation Scripting • Yaml  • Sinatra • Express • HTML • CSS • JavaScript • Bootstrap  • PostgreSQL • Active record • MongoDB • Jest • Jasmine • RSPEC • Capybara
+**Core Skills**
+
+• AWS (RDS, EC2 etc.)  • Terraform  • CI/CD (GitHub Actions, Concourse)  • Docker & Containerization (Docker and Kubernetes)• Monitoring & Observability (Datadog, CloudWatch)  • Scripting in Python and Bash  • Infrastructure as Code (IaC) • Agile & DevOps practices  • Full-stack Development (Node.js, React.js, Ruby)  • API Integrations  • Automation Scripting • Yaml  • Sinatra • Express • HTML • CSS • JavaScript • Bootstrap  • PostgreSQL • Active record • MongoDB • Jest • Jasmine • RSPEC • Capybara
 
 
 ## Work Experience
