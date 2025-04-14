@@ -1,5 +1,5 @@
 ## Syed Mubashar Ali
-[_Linkedin: linkedin.com/in/smubasharali_
+[_linkedin.com/in/smubasharali_
 ](https://www.linkedin.com/in/smubasharali/)
 
 
