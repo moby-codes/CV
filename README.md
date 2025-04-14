@@ -1,43 +1,33 @@
 ## Syed Mubashar Ali
+_Linkedin: linkedin.com/in/smubasharali_
 
-I am an ambitious Devops Engineer with Full Stack experience, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to the tech industry from a developers point of view.
+**DevOps Engineer** with strong experience across infrastructure automation, CI/CD, and cloud-native practices. Hands-on with AWS, Terraform, Docker, and GitHub Actions, delivering reliable, scalable systems in agile environments. Bootcamp-trained with a practical foundation in full-stack development and scripting. Excels at cross-team collaboration and driving engineering excellence through automation and innovation.
 
-After working different management jobs, I felt unfulfilled in my career still and decided to take the plunge and do something that I have always wanted to, software development. Having worked in different tech companies in non software related roles in the past, paired with my educational background in computer science, I always felt like I was more intrested in how the product was made. My career so far has given me the non technical skills to be a valuable team member and succeed in any role.
-I recently completed the [Makers Academy](https://www.makers.tech/) bootcamp which has given me insight and knowledge on how software design and development works and I'm excited to take the next step and get my first junior developer job. 
-
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, Bootstrap, PostgreSQL, Active record, MongoDB, Jest, Jasmine, RSPEC, Capybara
-
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-|[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic single page web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
-| [MakersBnB](https://github.com/danroche10/makers-bnb) | An Airbnb clone. | Ruby, Sinatra, Rspec, Capybara, PSQL             |
-| [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby, Ruby on Rails, Rspec, Capybara, Active Record              |
+**Core Skills** :• AWS (RDS, EC2 etc.)  • Terraform  • CI/CD (GitHub Actions, Concourse)  • Docker & Containerization (Docker and Kubernetes)• Monitoring & Observability (Datadog, CloudWatch)  • Scripting in Python and Bash  • Infrastructure as Code (IaC) • Agile & DevOps practices  • Full-stack Development (Node.js, React.js, Ruby)  • API Integrations  • Automation Scripting • Yaml  • Sinatra • Express • HTML • CSS • JavaScript • Bootstrap  • PostgreSQL • Active record • MongoDB • Jest • Jasmine • RSPEC • Capybara
 
 
 ## Work Experience
 
-**SMARSH** (April 2022 – present)
+**SMARSH** (April 2022 – Feb 2025)
 _Delivery Engineer I_
 
-Contributed expertise in DevOps and Full-Stack development. Specializing in the terraform and the Backstage ecosystem, I drive innovation and efficiency through the following key accomplishments:
+Contributed expertise in DevOps and full-stack development, specializing in Terraform, Backstage ecosystem, and advanced integrations. Leveraging a strong foundation in automation, API development, and cloud-native practices, I deliver innovative solutions that enhance efficiency and scalability.
 
--	Orchestrated the maintenance of Backstage, leveraging Node.js on the backend and React.js on the frontend, while seamlessly integrating new tool integrations to enhance efficiency and productivity.
--	Spearheaded the development and upkeep of diverse Terraform modules, including modules responsible for deploying AWS RDS instances, ensuring streamlined infrastructure management and deployment.
--	 Engineered multiple Concourse pipelines, including PR validation pipelines, showcasing prowess in automation and continuous integration
--	Designed and implemented Datadog dashboards via Terraform to monitor Concourse metrics, enhancing visibility and performance tracking. 
--	Wrote and deployed Terratest tests for our inhouse Terraform RDS creation module, comprehensively validating code integrity and functionality.
--	Automated and meticulously validated deployments through Concourse pipelines, fostering agile and reliable release processes.
--	Executed API-driven tenant deployments using Postman, ensuring seamless and efficient deployment processes 
--	Worked on GitHub Actions to institute robust verification mechanisms for PRs and seamless release deployments, optimizing collaboration and code quality.
--	Played a key role in automating staging and production setups through Concourse pipelines for Backstage, enhancing operational efficiency and scalability.
--	Demonstrated proficiency in full-stack development by implementing custom Backstage tools with React and Material-UI, delivering intuitive user experiences and streamlined workflows.
--	Contributed, as one of two engineers, to the migration of an in-house Slack bot from JavaScript to TypeScript, enhancing code maintainability and scalability
--	Authored and optimized Bash scripts, including deployment clean up routines, to automate routine tasks and improve operational efficiency 
--	Collaborated closely with cross-functional teams on ad-hoc tasks and debugging efforts, fostering a culture of continuous improvement and innovation within Concourse pipelines
--	Demonstrated proficiency in Docker containerization, contributing to containerized deployments and supporting containerized environments, albeit with limited experience
+## Key Accomplishments:
+- **Infrastructure as Code**: Spearheaded the development and maintenance of diverse Terraform modules, including modules for deploying AWS RDS instances, ensuring robust and streamlined infrastructure management.
+- **Automated Testing**: Wrote and deployed Terratest tests for in-house Terraform modules, comprehensively validating code integrity and functionality.
+- **CI/CD Pipelines**: Engineered and optimized Concourse pipelines for PR validation, automated testing, and deployment, driving continuous integration and delivery practices across teams.
+- **Monitoring & Observability**: Created Datadog dashboards via Terraform to monitor Concourse metrics, improving system observability and operational insights.
+- **Developer Productivity**: Maintained and enhanced the Backstage developer portal using Node.js (backend) and React.js (frontend), integrating new tools and optimizing workflows to improve developer experience.
+- **API Integrations**: Executed API-driven tenant deployments using Postman and implemented seamless integrations between Port and ArgoCD across multiple regions. Automated workflows for synchronization and ensured data parity across systems.
+- **Advanced Scripting**: Authored Python scripts to perform API calls, manipulate large datasets, and update APIs dynamically, showcasing proficiency in data handling and automation.
+- **Automation & Optimization**: Developed GitHub Actions workflows to automate PR validation and release deployments. Authored optimized Bash scripts, including deployment cleanup routines, to improve operational efficiency.
+- **Containerization**: Contributed to Docker containerization efforts, supporting containerized deployments and improving environment consistency.
+- **Cross-Team Collaboration**: Partnered closely with cross-functional teams on debugging and ad-hoc tasks, fostering a culture of continuous improvement and innovation.
+- **Technology Modernization**: Led the migration of a Slack bot from JavaScript to TypeScript, enhancing maintainability and scalability.
+- **Scalable Deployments**: Automated staging and production environments through Concourse pipelines, ensuring efficient and scalable deployments.
+
+With a comprehensive background in infrastructure automation, API-driven solutions, and collaborative engineering, I am passionate about leveraging technology to drive innovation and operational excellence in platform and DevOps engineering.
 
 
 
@@ -82,6 +72,42 @@ I have always beleived myself to be a relatively fast learner. Weather in my rol
 - Though the core languages covered were Ruby and JavaScript, I am confident that I will be able to translate that into any new language quickly with the help of the skills learnt. 
 - Learnt OOP, TDD, MVC and DDD among other concepts. 
 - worked with version control using Git/Github on every project and programming session making me more than familiar with Github
+
+##### Certifications and Training:
+**HashiCorp Certified: Terraform Associate (002)**
+_Passed in March 2023_
+
+**GitOps Fundamentals**
+ _Passed in Dec 2022_
+
+**AWS Trainingss completed:**
+- **Architecting on AWS**
+   _Aug 2024_
+  
+- **Developing on AWS**
+   _Aug 2024_
+  
+- **AWS Technical Essentials**
+   _Jul 2024_
+  
+- **AWS Advanced Well-Architected Best Practices**
+   _Feb 2023_
+  
+- **AWS Well-Architected Best Practices**
+   _Feb 2023_
+
+- **AWS Tech Essentials**
+   _Dec 2022_
+
+
+  ## Makers Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+|[Code4fun](https://github.com/moby-codes/makers-final-project)                      | A language agnostic single page web app that helps teach children coding concepts in a fun and not so technical way. | MERN stack with JEST. |
+| [MakersBnB](https://github.com/danroche10/makers-bnb) | An Airbnb clone. | Ruby, Sinatra, Rspec, Capybara, PSQL             |
+| [Acebook/8book](https://github.com/Willinlondon/acebook-rails-template-simple) | A simple facebook clone that will allow you to do all the basic functionality of Facebook. Made using the rails framework, this was the second engineering project of the Makers Coding Bootcamp clone. | Ruby, Ruby on Rails, Rspec, Capybara, Active Record              |
+
 
 ## Hobbies
 
