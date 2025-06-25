@@ -23,6 +23,9 @@
 
 ## Experience
 
+### **Smarsh** — _DevOps Engineer_  
+**June 2025 – present**
+
 ### **Smarsh** — _Delivery Engineer I_  
 **Apr 2022 – Feb 2025**
 
